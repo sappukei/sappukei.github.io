@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>私について on 泥臭く生きている</title>
+    <link>http://localhost:1313/tags/%E7%A7%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+    <description>Recent content in 私について on 泥臭く生きている</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 06 Aug 2015 13:58:52 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A7%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>このブログについて</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 06 Aug 2015 13:58:52 +0900</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;私 = sappukei&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;迷走しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
