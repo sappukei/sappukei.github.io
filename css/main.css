@@ -94,6 +94,37 @@ a.btn-back {
     left: 20px;
 }
 
+
+a.btn-basic {
+/*
+    position: absolute;
+    top: 20px;
+*/
+    padding: 7px 16px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+/*
+    background-color: rgba(0, 0, 0, 0.1);
+    color: rgba(255, 255, 255, 1.0);
+*/
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 13px;
+    transition: color,background-color 0.1s linear;
+}
+
+a.btn-basic:hover {
+    background-color: rgba(255, 255, 255, 1.0);
+    color: #ddd;
+}
+
+.blog-ranking {
+    height: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
 /* Footer */
 
 .global-footer {
