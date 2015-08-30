@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Aug 2015 17:42:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2015 20:30:47 +0900</lastBuildDate>
     <atom:link href="http://sappukei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自宅で仕事</title>
+      <link>http://sappukei.github.io/2015/08/30/work-at-home/</link>
+      <pubDate>Sun, 30 Aug 2015 20:30:47 +0900</pubDate>
+      
+      <guid>http://sappukei.github.io/2015/08/30/work-at-home/</guid>
+      <description>&lt;p&gt;日曜日。曇りときどき雨。土曜日はイヤに早寝したはずだけど起きたら12時過ぎだった。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>床で12時間寝る</title>
@@ -137,7 +147,7 @@
       <pubDate>Mon, 03 Aug 2015 20:02:41 +0900</pubDate>
       
       <guid>http://sappukei.github.io/2015/08/03/the-start/</guid>
-      <description>&lt;p&gt;今日から大阪の同級生の会社で働き出した。&lt;/p&gt;
+      <description>&lt;p&gt;今日から大阪の会社で働き出した。&lt;/p&gt;
 </description>
     </item>
     
@@ -150,18 +160,6 @@
       <description>&lt;h3 id=&#34;金曜日23時03分:f164a9cf0a9ead1222475f5a4f75bea9&#34;&gt;金曜日23時03分&lt;/h3&gt;
 
 &lt;p&gt;今新幹線に乗っている。現職の仕事はなんとか終わった。…いや、一部持ち帰りの宿題はあるのだが、ひとまず東京でやるべきことは終わった。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>now in tokyo</title>
-      <link>http://sappukei.github.io/2015/07/31/now-in-tokyo/</link>
-      <pubDate>Fri, 31 Jul 2015 01:22:38 +0900</pubDate>
-      
-      <guid>http://sappukei.github.io/2015/07/31/now-in-tokyo/</guid>
-      <description>&lt;h3 id=&#34;最後の奉公:8535425773be5e563f87c6940bd43698&#34;&gt;最後の奉公&lt;/h3&gt;
-
-&lt;p&gt;今東京にいる。&lt;/p&gt;
 </description>
     </item>
     
