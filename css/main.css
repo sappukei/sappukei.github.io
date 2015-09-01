@@ -306,13 +306,18 @@ pre code {
 
 .pager {
     padding: 25px 0 0 0;
+    /*
     border-top: 1px solid rgba(0, 0, 0, 0.2);
+    */
 }
 
 .pager li>a {
     transition: background-color 0.1s linear;
 }
 
+/*
+
+*/
 blockquote {
      font-style:italic;
 }
