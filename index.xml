@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Sep 2015 03:00:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2015 22:00:16 +0900</lastBuildDate>
     <atom:link href="http://sappukei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>久々の東京</title>
+      <link>http://sappukei.github.io/2015/09/04/tokyo-again/</link>
+      <pubDate>Fri, 04 Sep 2015 22:00:16 +0900</pubDate>
+      
+      <guid>http://sappukei.github.io/2015/09/04/tokyo-again/</guid>
+      <description>&lt;p&gt;今日は仕事の打ち合わせで上京しました。約1ヶ月ぶりの東京です。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ちょっとした感傷</title>
@@ -149,17 +159,6 @@
       
       <guid>http://sappukei.github.io/about/</guid>
       <description>私 = sappukei / 1986年生まれ / IT系労働者 30歳を目前にして人生に迷走している私の日々を記録するブログです。 2015年の夏に3度目の転職をし、長年住んだ東京から大阪に移住しました。 収入が激減したため生活レベルの見直しに迫られています。 労働に対する辛さが年々増しているため、早期リタイヤを目指したいと考えています。 そんな私の労働や節約や散財や投資などの行動を真実ベースでさらけ出し、 自分を客観的に見つめなおすきっかけになればと思いブログを立ち上げた次第です。</description>
-    </item>
-    
-    <item>
-      <title>without cure</title>
-      <link>http://sappukei.github.io/2015/08/05/without-cure/</link>
-      <pubDate>Wed, 05 Aug 2015 12:05:17 +0900</pubDate>
-      
-      <guid>http://sappukei.github.io/2015/08/05/without-cure/</guid>
-      <description>&lt;p&gt;左眼はむしろ悪化している。&lt;br /&gt;
-今日は会社を休んで通院。先月から患っている左眼の中心性網膜炎の検診を受けた。&lt;/p&gt;
-</description>
     </item>
     
   </channel>

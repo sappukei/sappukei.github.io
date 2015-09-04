@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Sep 2015 03:00:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2015 22:00:16 +0900</lastBuildDate>
     <atom:link href="http://sappukei.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>久々の東京</title>
+      <link>http://sappukei.github.io/2015/09/04/tokyo-again/</link>
+      <pubDate>Fri, 04 Sep 2015 22:00:16 +0900</pubDate>
+      
+      <guid>http://sappukei.github.io/2015/09/04/tokyo-again/</guid>
+      <description>&lt;p&gt;今日は仕事の打ち合わせで上京しました。約1ヶ月ぶりの東京です。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ちょっとした感傷</title>
@@ -150,16 +160,6 @@
       <guid>http://sappukei.github.io/2015/08/05/without-cure/</guid>
       <description>&lt;p&gt;左眼はむしろ悪化している。&lt;br /&gt;
 今日は会社を休んで通院。先月から患っている左眼の中心性網膜炎の検診を受けた。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>出社初日</title>
-      <link>http://sappukei.github.io/2015/08/03/the-start/</link>
-      <pubDate>Mon, 03 Aug 2015 20:02:41 +0900</pubDate>
-      
-      <guid>http://sappukei.github.io/2015/08/03/the-start/</guid>
-      <description>&lt;p&gt;今日から大阪の会社で働き出した。&lt;/p&gt;
 </description>
     </item>
     
