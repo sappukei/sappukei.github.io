@@ -330,5 +330,49 @@ article section img {
     max-width: 100%;
     height: auto;
     margin: 13px auto;
+
 }
 
+.contentSection img {
+    /*影を入れる*/
+    -webkit-box-shadow: 0 10px 8px -6px #8d8c8c;
+    -moz-box-shadow: 0 10px 8px -6px #8d8c8c;
+    box-shadow: 0 10px 8px -6px #8d8c8c;
+
+    padding:4px;
+    line-height:1.58823529;
+    background-color:#fff;
+    border:1px solid #ddd;
+    border-radius:4px;
+    -webkit-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    display:inline-block;
+}
+
+article section .halfWidth img {
+    max-width: 50%;
+    height: auto;
+    margin: 15px auto;   
+}
+
+.listThumbnail {
+    max-width: 90%;
+    height: auto;
+    margin: 13px auto;
+
+    /*影を入れる*/
+    -webkit-box-shadow: 0 10px 8px -6px #8d8c8c;
+    -moz-box-shadow: 0 10px 8px -6px #8d8c8c;
+    box-shadow: 0 10px 8px -6px #8d8c8c;
+
+    padding:4px;
+    line-height:1.58823529;
+    background-color:#fff;
+    border:1px solid #ddd;
+    border-radius:4px;
+    -webkit-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    display:inline-block;
+}
