@@ -3,24 +3,28 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  <meta property="og:title" content=" Server can&#39;t find! &middot;  泥臭く生きている" />
+  <meta property="og:title" content=" 文化的な生活を目指して &middot;  泥臭く生きている" />
   
   <meta name="theme-color" content="#hexcolor" />
  
   <meta property="og:site_name" content="泥臭く生きている" />
-  <meta property="og:url" content="http://sappukei.github.io/2015/07/23/server-can-not-find/" />
+  <meta property="og:url" content="http://sappukei.github.io/2015/09/11/practice-of-cultural-life/" />
   
   
   <meta property="og:type" content="article" />
   
-  <meta property="og:article:published_time" content="2015-07-23T20:01:29&#43;09:00" />
+  <meta property="og:article:published_time" content="2015-09-11T20:54:54&#43;09:00" />
+  
+  <meta property="og:article:tag" content="生活" />
   
   <meta property="og:article:tag" content="仕事" />
+  
+  <meta property="og:article:tag" content="株" />
   
   
 
   <title>
-     Server can&#39;t find! &middot;  泥臭く生きている
+     文化的な生活を目指して &middot;  泥臭く生きている
   </title>
 
   <link rel="stylesheet" href="http://sappukei.github.io/css/bootstrap.min.css" />
@@ -81,18 +85,22 @@
 
 <article>
   <header>
-    <h1 class="text-primary">Server can&#39;t find!</h1>
+    <h1 class="text-primary">文化的な生活を目指して</h1>
     <div class="post-meta clearfix">
       <div class="post-date pull-left">
         Posted on
-        <time datetime="2015-07-23T20:01:29&#43;09:00">
+        <time datetime="2015-09-11T20:54:54&#43;09:00">
           
-          2015-07-23 / Thu
+          2015-09-11 / Fri
         </time>
       </div>
       <div class="pull-right">
         
+        <span class="post-tag small"><a href="http://sappukei.github.io//tags/%E7%94%9F%E6%B4%BB">#生活</a></span>
+        
         <span class="post-tag small"><a href="http://sappukei.github.io//tags/%E4%BB%95%E4%BA%8B">#仕事</a></span>
+        
+        <span class="post-tag small"><a href="http://sappukei.github.io//tags/%E6%A0%AA">#株</a></span>
         
       </div>
     </div>
@@ -109,34 +117,39 @@
   <section class="contentSection">
     
 
-<h3 id="22日深夜-発生:cb2533375871dba23e20a7f5f32f5b2e">22日深夜 発生</h3>
+<p>昨日、仕事が爆発してヘロヘロになって家に帰り、「あー明日仕事行く気になるかなー」とかちょっと自分に対して不安を覚えていたのだけど、朝起きたらなんだかスッキリした空気感で、わりと良い気分で家を出ることができた。</p>
 
-<p>0時過ぎ、8月からの転職先の社長から入電があり、運営サービスと会社HPがダウンしているとのこと。<br />
-調べるとサーバー自体は生きていて、ドメインの名前解決ができていない模様。<br />
-ドメインのレジストラはお名前.comでDNSサーバはさくらインターネット。<br />
-nslookupをドメイン名で打つと「server can&rsquo;t find!」と言われる。<br />
-ドメインの有効期限はまだある、Whois情報のstatusもok、DNSサーバの設定もAレコードの設定も問題なさそう（というか特に触っていない）<br />
-DNS設定を作り直し、Aレコードも作り直しTTLを60とかに設定してみても改善しない。<br />
-打つ手がなくなったので、さくらインターネットのサポートにDNSサーバで何か起きてない？的な問い合わせだけして一旦放置した。</p>
+<p>空も高くて秋晴れって感じ。気温も涼しくてとても快適なチャリ通勤であった。<br />
+仕事はチャレンジングな内容が多くて、また今週からジョインしてもらっているアルバイターへの指示出しもあり大変だった。<br />
+明日の土曜もちょっと作業しないと間に合わないなって状況だ。</p>
 
-<h3 id="22日朝-出社-収束:cb2533375871dba23e20a7f5f32f5b2e">22日朝 出社 収束</h3>
+<h2 id="民間の図書館の貸出しカード作った:1078bddf645b093b97de90f2fb47a3aa">民間の図書館の貸出しカード作った</h2>
 
-<p>もともと8月以降の打合せする予定だったので出社した。自転車で10分かからず快適。<br />
-朝見てもサービスとHPは死んだままだったので、取り急ぎこれを何とかすることに。<br />
-改めてWhois情報を確認するとstatusがClient Holdになってる。<br />
-登録者情報のEmailアドレスの有効性が検証できずレジストラによってドメイン停止されている模様。<br />
-Emailアドレスは今まさに止まっているドメインをMXレコードに登録しているものだ。<br />
-取り急ぎEmailアドレスを確実に届くgmailのものにしてみると即statusがokに変わり名前解決できるようになった。<br />
-恐らくは社長がレジストラからの有効性確認のメールをスルーして停止処分されたのだろうと思われるが不思議な点もある。<br />
-名前解決できなくなったタイミングとWhois情報のstatusがClient Holdになったタイミングは前者が先だったはずだからだ。<br />
-深夜社長から連絡を受けてWhois情報を確認した時はstatusはokだったのだから。これが見間違いだった、と考えるのが一番筋が通るのだけど…。<br />
-入社前にこんな事態に巻き込まれるとはね。なんにせよ解決して一安心である。</p>
+<p>そんな中でも文化的な生活を送るべく、最近はご無沙汰だった読書を再開したいと考えている。<br />
+昼食べに行った会社近くの商業施設の中に、民間が運営しているカフェ併設のちょっとした図書館があった。<br />
+最初に500円でカード作れば一度に二冊、二週間本が借りられるのだと。その場のノリで会員登録をし、町田康の『俺、南進して』という15年くらい前の本を借りた。<br />
+町田康好きで読んでたことがあったのだけれど、この本は未読だったのだ。写真集と小説の折衷版みたいな作品で、当時はイロモノに見えて敬遠してしまっていたんだよなあ。</p>
 
-<p>その後は受託ビジネスをどうするかといったことを相談し、最初は死ぬ気で頑張ろうというファジーな共通認識を構築して終わり。<br />
-近所のショッピングモールのフードコートで海鮮丼食って（経費で）、帰った。<br />
-現職の仕事を片付けないといけないのだ。</p>
+<p>少しずつ読書の時間を作れると良いなと思う。秋だし。</p>
 
-<p>左眼はまだ違和感あるし視野も狭いけど圧迫感はやや薄れてきたような気がする。</p>
+<h2 id="ちゃんちゃら適当投資も実行した:1078bddf645b093b97de90f2fb47a3aa">ちゃんちゃら適当投資も実行した</h2>
+
+<p>今日もまたノリで株の売り買いを行ってしまったよ。仕事の合間に。<br />
+本日の取引はこちら。</p>
+
+<p><img src="/images/post/2015-09-11.gif" /></p>
+
+<p>アートスパークホールというなんだか良さ気な会社（詳細は知らない）が値上がりつつあったので買ってみた。
+GMOインターネットはなんとなく10,000円くらい上がってたので売ってみた。小銭稼ぎ。<br />
+とても投資とは言えない適当な売買である。趣味の一環だしね。</p>
+
+<p>引け後のポートフォリオはこれ。</p>
+
+<div class="halfWidth">
+<img src="/images/post/2015-09-11.jpg" />
+</div>
+
+<p>やっぱり哀れな感じである。</p>
 
   </section>
 
@@ -199,11 +212,10 @@ Emailアドレスは今まさに止まっているドメインをMXレコード�
     <ul class="pager">
       
       
-      <li class="previous"><a href="http://sappukei.github.io/2015/07/22/the-name-of-disease-is-central-retinitis/"><span aria-hidden="true">＜ </span>病名は「中心性網膜炎」</a></li>
+      <li class="previous"><a href="http://sappukei.github.io/2015/09/10/the-large-explosion/"><span aria-hidden="true">＜ </span>大爆発炎上</a></li>
       
       
       
-      <li class="next"><a href="http://sappukei.github.io/2015/07/24/the-remote-worker/">the remote worker<span aria-hidden="true"> ＞</span></a></li>
       
     </ul>
     </section>
