@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>家計 on 泥臭く生きている</title>
+    <link>http://localhost:1313/tags/%E5%AE%B6%E8%A8%88/</link>
+    <description>Recent content in 家計 on 泥臭く生きている</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 19 Nov 2015 20:24:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AE%B6%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>what should i call macdonald?</title>
+      <link>http://localhost:1313/2015/11/19/what-should-i-call-macdonald/</link>
+      <pubDate>Thu, 19 Nov 2015 20:24:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/2015/11/19/what-should-i-call-macdonald/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -383,6 +383,12 @@ article section img {
     display:inline-block;
 }
 
+.contentSection p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 12px;
+}
+
 article section .halfWidth img {
     max-width: 50%;
     height: auto;
