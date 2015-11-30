@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Oct 2015 13:08:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2015 02:54:07 +0900</lastBuildDate>
     <atom:link href="http://sappukei.github.io/tags/%E4%BB%95%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>給与支給 / 2015年10月分</title>
+      <link>http://sappukei.github.io/2015/11/25/monthly-salary-201510/</link>
+      <pubDate>Wed, 25 Nov 2015 02:54:07 +0900</pubDate>
+      
+      <guid>http://sappukei.github.io/2015/11/25/monthly-salary-201510/</guid>
+      <description>&lt;p&gt;10月分の給与が支給されました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>給与支給 / 2015年9月分</title>
@@ -16,7 +26,7 @@
       <pubDate>Fri, 23 Oct 2015 13:08:24 +0900</pubDate>
       
       <guid>http://sappukei.github.io/2015/10/23/monthly-salary-201509/</guid>
-      <description>&lt;p&gt;本日は給料日でした。8月分の給与が支給されました。&lt;/p&gt;
+      <description>&lt;p&gt;本日は給料日でした。9月分の給与が支給されました。&lt;/p&gt;
 </description>
     </item>
     
@@ -150,18 +160,6 @@
       <description>&lt;h3 id=&#34;金曜日23時03分:f164a9cf0a9ead1222475f5a4f75bea9&#34;&gt;金曜日23時03分&lt;/h3&gt;
 
 &lt;p&gt;今新幹線に乗っている。現職の仕事はなんとか終わった。…いや、一部持ち帰りの宿題はあるのだが、ひとまず東京でやるべきことは終わった。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>now in tokyo</title>
-      <link>http://sappukei.github.io/2015/07/31/now-in-tokyo/</link>
-      <pubDate>Fri, 31 Jul 2015 01:22:38 +0900</pubDate>
-      
-      <guid>http://sappukei.github.io/2015/07/31/now-in-tokyo/</guid>
-      <description>&lt;h3 id=&#34;最後の奉公:8535425773be5e563f87c6940bd43698&#34;&gt;最後の奉公&lt;/h3&gt;
-
-&lt;p&gt;今東京にいる。&lt;/p&gt;
 </description>
     </item>
     
