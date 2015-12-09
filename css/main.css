@@ -292,8 +292,11 @@ a.btn-basic:hover {
 	text-align: center;
 }
 
-.older-posts,.newer-posts
-{
+.older-posts,.newer-posts,.page-number {
+    font-size: 80%;
+}
+
+.older-posts,.newer-posts {
 	display: inline!important;
 	border: 1px solid #ddd;
 	border-radius: 15px;
@@ -302,20 +305,17 @@ a.btn-basic:hover {
 	padding: 5px 14px;
 }
 
-.page-number
-{
+.page-number {
 	display: inline-block;
 	min-width: 100px;
 	padding: 2px 0;
 }
 
-.newer-posts
-{
+.newer-posts {
 	float: left;
 }
 
-.older-posts
-{
+.older-posts {
     float: right;
 }
 
