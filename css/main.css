@@ -288,7 +288,7 @@ a.btn-basic:hover {
 
 .pagination
 {
-	width: 720px;
+	max-width: 720px;
 	text-align: center;
 }
 
