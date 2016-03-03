@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2015 Sappukei. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 25 Jan 2016 19:08:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 19:08:42 +0900</lastBuildDate>
     <atom:link href="http://sappukei.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>給与支給 / 2016年1月分</title>
+      <link>http://sappukei.github.io/monthly-salary-201601/</link>
+      <pubDate>Thu, 25 Feb 2016 19:08:42 +0900</pubDate>
+      
+      <guid>http://sappukei.github.io/monthly-salary-201601/</guid>
+      <description>&lt;p&gt;2016年1月分の給与が支払われました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>給与支給 / 2015年12月分</title>
@@ -17,16 +27,6 @@
       
       <guid>http://sappukei.github.io/2016/01/25/monthly-salary-201512/</guid>
       <description>&lt;p&gt;新年最初の給料日。2015年12月分の給与が支払われました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>給与支給 / 2016年1月分</title>
-      <link>http://sappukei.github.io/monthly-salary-201601/</link>
-      <pubDate>Mon, 25 Jan 2016 19:08:42 +0900</pubDate>
-      
-      <guid>http://sappukei.github.io/monthly-salary-201601/</guid>
-      <description>&lt;p&gt;2016年1月分の給与が支払われました。&lt;/p&gt;
 </description>
     </item>
     
